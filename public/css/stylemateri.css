@@ -1,0 +1,299 @@
+.materi {
+    position: absolute;
+    width: 1021.22px;
+    height: 80.65px;
+    left: 181px;
+    top: 538.35px;
+
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.kotak {
+    position: absolute;
+    width: 985px;
+    height: 4450px;
+    left: 204px;
+    top: 520px;
+
+    text-align: center;
+
+    background: linear-gradient(90deg, #C57878 0%, #865F5F 100%);
+    border-radius: 40px 40px 40px 40px;
+}
+
+.kotak2 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 50px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak2-1 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 260px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak2-2 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 470px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak2-3 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 680px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak2-4 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 890px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak2-5 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 1280px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak2-6 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 1490px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak2-7 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 1870px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak2-8 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 2080px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak2-9 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 2460px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak2-10 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 2670px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak2-11 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 3050px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak2-12 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 3260px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak2-13 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 3470px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak2-14 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 3850px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak2-15 {
+    position: absolute;
+    width: 920px;
+    height: 186px;
+    left: 30px;
+    top: 4060px;
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+
+}
+
+.kotak-vid {
+    position: absolute;
+    width: 283px;
+    height: 140px;
+    left: 30px;
+    top: 20px;
+
+    background: #C4C4C4;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+h3 {
+    text-align: left;
+    padding-left: 70px;
+}
+
+p {
+    text-align: left;
+    padding-left: 335px;
+    padding-top: 0;
+}
+
+.kotak-lat {
+    position: absolute;
+    width: 576px;
+    height: 144px;
+    left: 200px;
+    top: 1100px;
+
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+}
+
+.kotak-lat-2 {
+    position: absolute;
+    width: 576px;
+    height: 144px;
+    left: 200px;
+    top: 1700px;
+
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+}
+
+.kotak-lat-3 {
+    position: absolute;
+    width: 576px;
+    height: 144px;
+    left: 200px;
+    top: 2290px;
+
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+}
+
+.kotak-lat-4 {
+    position: absolute;
+    width: 576px;
+    height: 144px;
+    left: 200px;
+    top: 2880px;
+
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+}
+
+.kotak-lat-5 {
+    position: absolute;
+    width: 576px;
+    height: 144px;
+    left: 200px;
+    top: 3680px;
+
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+}
+
+.kotak-lat-6 {
+    position: absolute;
+    width: 576px;
+    height: 144px;
+    left: 200px;
+    top: 4270px;
+
+    background-color: white;
+    border-radius: 60px 60px 60px 60px;
+}
+
+.kotak-lat2 {
+    position: absolute;
+    width: 352px;
+    height: 77px;
+    left: 110px;
+    top: 35px;
+
+    background-color: lightgreen;
+    border-radius: 80px 80px 80px 80px;
+}
+

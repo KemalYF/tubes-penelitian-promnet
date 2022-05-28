@@ -1,0 +1,47 @@
+@media screen and (max-width : 768px) {
+.logo-text {
+	display: none;
+}
+.preloader .center img {
+	width: 100px;
+}
+.about-item-listbox {
+	grid-template-columns: auto;
+} 
+.prodies .prodi-item img { 
+	max-width: 100%;
+	height: auto; 
+}
+
+h1 {
+	font-size: 32px;
+	line-height: 38px;
+}
+h2 {
+	font-size: 20px; 
+	line-height: 26px; 
+}
+.header-title i {
+	display: block;
+	margin-bottom: 8px;
+}
+
+.navbar .navbar-brand .navbar-link {
+	padding-bottom: 0px;
+}
+
+.news .item.item-sm {
+	grid-template-columns: auto; 
+}
+.gallery .gallery-items { 
+	grid-template-columns: auto; 
+}
+.prodi-item {
+	box-sizing: border-box;
+	height: 100%;
+}
+.prodi-item h2 {
+	font-size: 18px;
+	line-height: 1.2;
+}
+}
